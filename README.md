@@ -133,6 +133,7 @@ This project demonstrates the foundational techniques behind content-based recom
 - User rating integration
 - Emotion-based recommendations
 - Real-time trending engine
+- dynamic features 
 
 ---
 
